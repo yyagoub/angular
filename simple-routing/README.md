@@ -1,3 +1,5 @@
+# create simple angular app with routing
+
 ### create angular app:
 
 - run the following command: ng g application <name>
