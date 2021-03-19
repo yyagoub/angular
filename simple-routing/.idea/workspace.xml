@@ -22,6 +22,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/node_modules/protractor" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
@@ -30,6 +31,7 @@
   <component name="RunManager" selected="npm.Angular CLI Server">
     <configuration name="Tests (simple-routing)" type="JavaScriptTestRunnerKarma">
       <config-file value="$PROJECT_DIR$/karma.conf.js" />
+      <karma-package-dir value="$PROJECT_DIR$/node_modules/@angular/cli" />
       <working-directory value="$PROJECT_DIR$" />
       <node-interpreter value="project" />
       <envs />
@@ -38,6 +40,7 @@
     <configuration name="E2E Tests (simple-routing)" type="JavaScriptTestRunnerProtractor">
       <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
       <node-interpreter value="project" />
+      <protractor-package value="$PROJECT_DIR$/node_modules/protractor" />
       <protractor-options value="" />
       <envs />
       <scope-kind value="ALL" />
@@ -66,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616064583726</updated>
       <workItem from="1616064584810" duration="1620000" />
-      <workItem from="1616066664028" duration="450000" />
+      <workItem from="1616066664028" duration="1463000" />
     </task>
     <servers />
   </component>
@@ -74,6 +77,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="184" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616071560899">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1616071560899" />
     <state width="1371" height="240" key="GridCell.Tab.0.bottom" timestamp="1616066633653">
       <screen x="48" y="25" width="1392" height="875" />
     </state>
